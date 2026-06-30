@@ -3,7 +3,7 @@
 It includes signal preprocessing, R-peak detection, BPM calculation, and data visualization using graphs.
 The project is implemented in Google Colab for easy access without installation.
 
-❤️ ECG Signal Analysis and Heart Rate Estimation using Python
+## ❤️ ECG Signal Analysis and Heart Rate Estimation using Python
 
 ## 📌 Project Overview
 
